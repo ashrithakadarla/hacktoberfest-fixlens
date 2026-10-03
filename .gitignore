@@ -1,0 +1,25 @@
+# Environment files
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+.venv/
+venv/
+*.egg-info/
+
+# Node / React
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
